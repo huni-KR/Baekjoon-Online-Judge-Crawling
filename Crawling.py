@@ -134,7 +134,6 @@ def codeCollector(driver, problems, xpath):
 
         driver.back()   # 뒤로 가기
         driver.implicitly_wait(10)  # seconds
-    print(1)
 
 
 def problems(driver):
